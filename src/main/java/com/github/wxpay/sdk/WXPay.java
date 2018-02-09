@@ -7,6 +7,9 @@ import com.github.wxpay.sdk.WXPayConstants.SignType;
 
 public class WXPay {
 
+
+
+
     private WXPayConfig config;
     private SignType signType;
     private boolean autoReport;
