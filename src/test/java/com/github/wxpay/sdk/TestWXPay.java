@@ -12,6 +12,7 @@ public class TestWXPay {
 
     public TestWXPay() throws Exception {
         System.out.print(11);
+
         config = new WXPayConfigImpl ();
         wxpay = new WXPay(config);
         total_fee = "1";
