@@ -1,0 +1,11 @@
+com\github\wxpay\sdk\WXPayDomainSimpleImpl.class
+com\github\wxpay\sdk\test.class
+com\github\wxpay\sdk\TestWXPayReport.class
+com\github\wxpay\sdk\TestWXPayPerformance.class
+com\github\wxpay\sdk\TestWXPay.class
+com\github\wxpay\sdk\WXPayDomainSimpleImpl$WxpayDomainHolder.class
+com\github\wxpay\sdk\WXPayDomainSimpleImpl$1.class
+com\github\wxpay\sdk\TestWXPayRequest.class
+com\github\wxpay\sdk\TestApacheHttpClient.class
+com\github\wxpay\sdk\WXPayDomainSimpleImpl$DomainStatics.class
+com\github\wxpay\sdk\WXPayConfigImpl.class
